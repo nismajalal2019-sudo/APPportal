@@ -1,0 +1,7 @@
+{
+  "name": "MEMF Electrical Specialized Portal",
+  "description": "A high-end industrial portal for MEMF Industries to manage electrical inquiries, engineering costs, planning, and sales approvals with role-based access control and integrated AI assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
